@@ -9,6 +9,7 @@ La aplicación será una red complementaria a Instagram, centrada exclusivamente
 ## Objetivo Principal
 
 Diseñar y desarrollar una plataforma digital que sirva como punto de encuentro para viajeros, donde puedan:
+
 - Compartir sus experiencias de viaje mediante publicaciones enriquecidas.
 - Recomendar destinos, tips útiles y actividades.
 - Conectar con otros usuarios por intereses, estilos de viaje o ubicación geográfica.
@@ -26,4 +27,4 @@ Diseñar y desarrollar una plataforma digital que sirva como punto de encuentro 
 8. **Mapa interactivo** para explorar destinos y publicaciones geolocalizadas.
 9. **Seguimiento de usuarios y creación de comunidad** segmentada por tipo de viajero.
 
-## Integrantes del Equipo: 
+## Integrantes del Equipo: -María Fernanda Moreno
