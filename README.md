@@ -30,4 +30,5 @@ Diseñar y desarrollar una plataforma digital que sirva como punto de encuentro 
 ## Integrantes del Equipo: 
 1- Marcos andres piza
 2- María Fernanda Moreno
+3- Lisandro Cisterna
 
