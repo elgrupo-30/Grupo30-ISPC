@@ -28,5 +28,4 @@ Diseñar y desarrollar una plataforma digital que sirva como punto de encuentro 
 9. **Seguimiento de usuarios y creación de comunidad** segmentada por tipo de viajero.
 
 ## Integrantes del Equipo: 
-                           -Lisandro Cisterna
-                           -María Fernanda Moreno
+
