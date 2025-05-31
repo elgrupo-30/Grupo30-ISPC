@@ -33,3 +33,4 @@ Diseñar y desarrollar una plataforma digital que sirva como punto de encuentro 
 - 3- Lisandro Cisterna
 - 4- Luciano Ezequiel Demarco
 
+- 5- Daniel Vega
